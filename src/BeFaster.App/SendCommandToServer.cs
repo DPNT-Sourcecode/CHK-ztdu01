@@ -40,7 +40,8 @@ namespace BeFaster.App
         ///        * You trigger one of the actions by typing it on the console.
         ///        * After the action feedback is presented, the execution will stop.
         ///
-        ///   +------+-----------------------------------------------------------------------+
+        ///   +------+------./record_and_upload.sh --no-video
+//-----------------------------------------------------------------+
         ///   | Step | The usual workflow                                                    |
         ///   +------+-----------------------------------------------------------------------+
         ///   |  1.  | Run this file.                                                        |
@@ -86,3 +87,4 @@ namespace BeFaster.App
         }
     }
 }
+
